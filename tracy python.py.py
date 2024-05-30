@@ -1,0 +1,6 @@
+print("Day1 -string Manipulation")
+print('String Concatenation is done with the "+" sign')
+print('e.g '+ "hello"   + " world")
+print("New Lines can be created with \\n.")
+print("This is the SOC team")
+print('print ("This is the SOC team")')
